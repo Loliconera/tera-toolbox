@@ -6,12 +6,10 @@
 
 * El mantenedor original de este software sigue siendo [SaltyMonkey](https://github.com/SaltyMonkey). En esta bifurcación, acabamos de agregar soporte para el parche 92 para una instalación conveniente de actualizaciones de módulos corregidas para este parche. No garantizamos la funcionalidad completa de esta versión y los módulos instalados en ella.
 
-# TERA Toolbox
+# TERA Toolbox	[Descargar Aqui](https://github.com/Loliconera/tera-toolbox/releases)
 * Próxima generación de Tera-Proxy: actualizaciones automáticas, una interfaz gráfica de usuario, modificaciones de cliente automatizadas, una conexión directa al cliente del juego (permitiendo, por ejemplo, consultas en el centro de datos en tiempo real), ¡y mucho más!
 * ¡Consulte [la documentación] (doc/main.md) (especialmente si desea desarrollar sus propios módulos)!
 * Bifurcado originalmente de https://github.com/tera-toolbox/tera-toolbox (último parche 115).
-
-# TERA Toolbox	[Descargar Aqui](https://github.com/Loliconera/tera-toolbox/releases)
 
 # Instrucciones de instalación
 * Descargue el archivo de [GitHub](https://github.com/tera-private-toolbox/tera-toolbox/archive/refs/heads/master.zip) y descomprímalo en cualquier carpeta de instalación.
