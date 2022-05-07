@@ -12,7 +12,7 @@
 * Bifurcado originalmente de https://github.com/tera-toolbox/tera-toolbox (último parche 115).
 
 # Instrucciones de instalación
-* Descargue el archivo de [GitHub](https://github.com/tera-private-toolbox/tera-toolbox/archive/refs/heads/master.zip) y descomprímalo en cualquier carpeta de instalación.
+* Descargue el instalador [TeraToolboxSetup.exe](https://github.com/Loliconera/tera-toolbox/releases/tag/1.0) y ejecute la instalación.
 * Ejecute `TeraToolbox.exe` en la carpeta de instalación si desea utilizar la caja de herramientas con una interfaz gráfica de usuario (GUI; ¡muy recomendable!), o `TeraToolboxCLI.exe` en la carpeta de instalación para una interfaz de línea de comandos (CLI).
 * El primer inicio después de instalar TERA Toolbox puede demorar un tiempo, según su conexión a Internet. Esto se debe a que todos los archivos necesarios se descargarán y actualizarán automáticamente.
 * Las modificaciones más populares ya están preinstaladas para su comodidad: consulte la página "Mis modificaciones". Si no desea utilizar un módulo en particular, simplemente desinstálelo o desactívelo allí.
