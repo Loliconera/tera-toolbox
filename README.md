@@ -1,6 +1,6 @@
 # :information_source: Parche 92.04 y 100.02 (x64) soporte
 
-* Versión no oficial de TERA Toolbox para los parches 92.03, 92.04 y 100.02 (x64) con actualizaciones automáticas de todos los módulos compatibles. Puede obtener algunos módulos disponibles en la pestaña `Obtener más modificaciones`.
+* Versión no oficial de TERA Toolbox para los parches 92.03, 92.04 y 100.02 (x64) con actualizaciones automáticas de todos los módulos compatibles. Puede obtener algunos módulos disponibles en la pestaña `Obtener más mod`.
 
 ## Garantía
 
