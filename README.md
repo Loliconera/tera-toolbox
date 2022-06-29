@@ -14,8 +14,8 @@
 # Instrucciones de instalación
 * Descargue y ejecute la configuración desde [GitHub](https://github.com/tera-private-toolbox/tera-toolbox/releases/download/teratoolbox-setup/TeraToolboxSetup.exe).
 * Siga las instrucciones del asistente de instalación. Es posible una instalación manual desde GitHub (instale Node.JS y descargue este repositorio), ¡pero no se recomienda!
-* Ejecute `TeraToolbox.exe` en la carpeta de instalación si desea utilizar la caja de herramientas con una interfaz gráfica de usuario (GUI; ¡muy recomendable!), o `TeraToolboxCLI.exe` en la carpeta de instalación para una interfaz de línea de comandos (CLI).
+* Ejecute `TeraToolbox.exe` en la carpeta de instalación si desea utilizar TeraToolbox con una interfaz gráfica de usuario (GUI; ¡muy recomendable!), o `TeraToolboxCLI.exe` en la carpeta de instalación para una interfaz de línea de comandos (CLI).
 * El primer inicio después de instalar TERA Toolbox puede demorar un tiempo, según su conexión a Internet. Esto se debe a que todos los archivos necesarios se descargarán y actualizarán automáticamente.
-* Las modificaciones más populares ya están preinstaladas para su comodidad: consulte la página "Mis modificaciones". Si no desea utilizar un módulo en particular, simplemente desinstálelo o desactívelo allí.
+* Las modificaciones más populares ya están preinstaladas para su comodidad: consulte la página "Mis mod". Si no desea utilizar un módulo en particular, simplemente desinstálelo o desactívelo allí.
 * Consulte la página "Obtener más mods" para conocer los mods que desea instalar y la página "Configuración" para configurar TERA Toolbox según sus necesidades.
 * Una vez que esté todo listo, presione el botón `¡iniciar!` en la esquina superior derecha, luego comience el juego como de costumbre.
