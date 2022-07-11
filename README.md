@@ -1,4 +1,4 @@
-<a href="https://github.com/Loliconera/tera-guide-spanish/archive/refs/heads/master.zip" target="_blank"><button><span title="Descargar Guía"><img src="https://i.imgur.com/v1aL2sG.png"  alt="drawing" width="150" /></button></a>
+<a href="https://github.com/Loliconera/tera-toolbox/archive/refs/heads/master.zip" target="_blank"><button><span title="Descargar Toolbox"><img src="https://i.imgur.com/v1aL2sG.png"  alt="drawing" width="150" /></button></a>
 
 # :information_source: Parche 100.02 (x64) soporte
 
